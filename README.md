@@ -4,6 +4,10 @@ This is a javascript library that does message conversion between a system and a
 
  [More info here about iso 8583 standard is here](https://en.wikipedia.org/wiki/ISO_8583)
 
+# Fork changes
+
+The format has been customized to conform to Zipline's version of 8583. *Do not merge these changes back into the [original project](https://github.com/zemuldo/iso_8583)*
+
 # Usage: For Bitmap Messaging
 
 ##  Install from npm using
